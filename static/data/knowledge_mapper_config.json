@@ -1,0 +1,22 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Unit Handbook Synopsis",
+        "tensorShape": [
+          5927,
+          728
+        ],
+        "tensorPath": "data/processed/unit_synopsis_embeddings_only.tsv",
+        "metadataPath": "data/processed/unit_synopsis_metadata_only.tsv"
+      },
+      {
+        "tensorName": "Unit Learning Outcomes",
+        "tensorShape": [
+          4946,
+          728
+        ],
+        "tensorPath": "data/processed/unit_learning_outcomes_embeddings_only.tsv",
+        "metadataPath": "data/processed/unit_learning_outcomes_metadata_only.tsv"
+      }
+    ]
+  }

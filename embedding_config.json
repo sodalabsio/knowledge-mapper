@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Handbook Synopsis Embeddings",
+        "tensorShape": [
+          5324,
+          728
+        ],
+        "tensorPath": "https://knowledge-mapper.s3-ap-southeast-2.amazonaws.com/data/unit_synopsis_embeddings_only.tsv",
+        "metadataPath": "https://knowledge-mapper.s3-ap-southeast-2.amazonaws.com/data/unit_synopsis_metadata_only.tsv"
+      }
+    ]
+  }
