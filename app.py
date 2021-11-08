@@ -1,7 +1,7 @@
 from flask import Flask, request
 
-HOST = '0.0.0.0'
-PORT = 5000
+HOST = '127.0.0.1' # '127.0.0.1'
+PORT = 8000
 
 app = Flask(__name__, static_url_path='') # path deaults to static/
 
