@@ -5,7 +5,7 @@ Project  for developing knowledge maps via deep text embeddings.
 To start a development server
 ```
 pip install -r requirements.txt
-gunicorn --bind 0.0.0.0:5000 wsgi:app
+gunicorn --bind 0.0.0.0:8000 wsgi:app
 ```
 
 ### Contents

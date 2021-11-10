@@ -1,0 +1,22 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Unit Handbook Synopsis",
+        "tensorShape": [
+          5297,
+          384
+        ],
+        "tensorPath": "data/processed/unit_synopsis_embeddings_only_all-MiniLM-L6-v2.tsv",
+        "metadataPath": "data/processed/unit_synopsis_metadata_only_all-MiniLM-L6-v2.tsv"
+      },
+      {
+        "tensorName": "Unit Learning Outcomes",
+        "tensorShape": [
+          4941,
+          384
+        ],
+        "tensorPath": "data/processed/unit_learning_outcomes_embeddings_only_all-MiniLM-L6-v2.tsv",
+        "metadataPath": "data/processed/unit_learning_outcomes_metadata_only_all-MiniLM-L6-v2.tsv"
+      }
+    ]
+  }
